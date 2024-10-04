@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">Ponto Certo</string>
     <string name="name_app_login">PontoCerto</string>
+    <string name="instruction_name_login">Digite seu login</string>
+    <string name="instruction_password_login">Digite sua senha</string>
+    <string name="name_button">Entrar</string>
 </resources>
